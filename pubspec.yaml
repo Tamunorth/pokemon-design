@@ -30,6 +30,7 @@ dependencies:
   pokemon_repository:
     path: ./packages/pokemon_repository
   sentry_flutter: ^7.18.0
+  firebase_core: ^2.24.2
 
 dev_dependencies:
   bloc_test: ^9.1.2

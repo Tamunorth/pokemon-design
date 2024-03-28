@@ -3,11 +3,11 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:go_router/go_router.dart';
-import 'package:pokebook/app/constants/custom_extensions.dart';
 import 'package:pokebook/app/widgets/widgets.dart';
 import 'package:pokebook/features/pokemon/bloc/pokemon_bloc.dart';
 import 'package:pokebook/gen/assets.gen.dart';
 import 'package:pokemon_repository/pokemon_repository.dart';
+import 'package:pokebook/app/constants/custom_extensions.dart';
 
 import '../../../app/constants/predominat_color.dart';
 

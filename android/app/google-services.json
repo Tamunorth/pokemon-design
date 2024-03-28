@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50284643270",
+    "project_id": "poke-book-task",
+    "storage_bucket": "poke-book-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50284643270:android:508e0de0f163e528dc28c7",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.pokebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMM-Gh7URg3GuaX6zS9LFbLQar6cEX-gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
